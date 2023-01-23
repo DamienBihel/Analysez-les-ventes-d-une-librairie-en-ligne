@@ -1,5 +1,5 @@
 # Analysez les ventes d'une librairie
- Projet N°6 de la formation de Data Analyst OpenClassrooms. Ce projet a été créé dans le cadre de la formation de Data Analyst OpenClassrooms. Il vise à répondre aux demandes d'une librairie en analysant les comportements d'achats.
+Ce projet a été créé dans le cadre de la formation de Data Analyst. Il vise à répondre aux demandes d'une librairie en analysant les comportements d'achats.
 
 ## Objectifs pédagogiques
 - Analyser des séries temporelles
